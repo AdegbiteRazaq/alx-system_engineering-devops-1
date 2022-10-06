@@ -1,4 +1,3 @@
-
-#!/bin/bash
-|s -na
+#!/bin/bash 
+ls -na
 
