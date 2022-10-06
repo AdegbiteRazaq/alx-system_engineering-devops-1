@@ -1,4 +1,3 @@
-
 #!/bin/bash
-|s -|a
+ls -la
 
